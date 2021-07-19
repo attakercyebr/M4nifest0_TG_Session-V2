@@ -66,8 +66,8 @@
 
 # See how it works v2.0
 ----------------------
-- 🔞 V1.0..0  
--  https://www.youtube.com/watch?v=cFr4IvaT2fk&feature=youtu.be
+- 🔞 V2.0..0  
+-  https://youtu.be/JH1FwSQ997Q
 # How to ger:
 ----------------------
 - 📌 Visit our channel or our site to download .
