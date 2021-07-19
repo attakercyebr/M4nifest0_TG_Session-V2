@@ -28,6 +28,12 @@
 
 -📌 Easily hack Telegram.
 
+-📌 No antivirus detection
+
+-📌 100% FUD
+
+-📌 Has a private binder without detecting antivirus
+
 -📌 The best program written to hack account information on various social networks.
 
 # How to get a license :
