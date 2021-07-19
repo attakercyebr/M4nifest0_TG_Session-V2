@@ -58,13 +58,13 @@
 
 - 📌 2021 💪
 
-- 📌 Version 1.0.0 💪
+- 📌 Version 2.0 💪
 
 # Disclaimer:
 ----------------------
 - 📌 This tool is designed and developed for professionals and researchers. So do not target others and do not test them for no reason :)
 
-# See how it works v1.0.0
+# See how it works v2.0
 ----------------------
 - 🔞 V1.0..0  
 -  https://www.youtube.com/watch?v=cFr4IvaT2fk&feature=youtu.be
